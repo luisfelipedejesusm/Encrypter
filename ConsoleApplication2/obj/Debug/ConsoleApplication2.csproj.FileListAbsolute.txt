@@ -1,0 +1,6 @@
+C:\Users\luisfelipe\Source\Repos\PFinalRepositorio2\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+C:\Users\luisfelipe\Source\Repos\PFinalRepositorio2\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+C:\Users\luisfelipe\Source\Repos\PFinalRepositorio2\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+C:\Users\luisfelipe\Source\Repos\PFinalRepositorio2\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.csprojResolveAssemblyReference.cache
+C:\Users\luisfelipe\Source\Repos\PFinalRepositorio2\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+C:\Users\luisfelipe\Source\Repos\PFinalRepositorio2\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
